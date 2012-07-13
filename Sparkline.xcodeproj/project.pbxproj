@@ -22,14 +22,14 @@
 		C70D128C15AD1FE0008871FA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C70D128E15AD1FE0008871FA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C70D129015AD1FE0008871FA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		C70D129415AD1FE0008871FA /* Sparkline-Info.plist */ = {isa = PBXFileReference; path = "Sparkline-Info.plist"; sourceTree = "<group>"; };
+		C70D129415AD1FE0008871FA /* Sparkline-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Sparkline-Info.plist"; sourceTree = "<group>"; };
 		C70D129615AD1FE0008871FA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C70D129815AD1FE0008871FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C70D129A15AD1FE0008871FA /* Sparkline-Prefix.pch */ = {isa = PBXFileReference; path = "Sparkline-Prefix.pch"; sourceTree = "<group>"; };
-		C70D129B15AD1FE0008871FA /* SLAppDelegate.h */ = {isa = PBXFileReference; path = SLAppDelegate.h; sourceTree = "<group>"; };
+		C70D129A15AD1FE0008871FA /* Sparkline-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sparkline-Prefix.pch"; sourceTree = "<group>"; };
+		C70D129B15AD1FE0008871FA /* SLAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SLAppDelegate.h; sourceTree = "<group>"; };
 		C70D129C15AD1FE0008871FA /* SLAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SLAppDelegate.m; sourceTree = "<group>"; };
 		C70D129F15AD1FE0008871FA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		C70D12A115AD1FE0008871FA /* SLViewController.h */ = {isa = PBXFileReference; path = SLViewController.h; sourceTree = "<group>"; };
+		C70D12A115AD1FE0008871FA /* SLViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SLViewController.h; sourceTree = "<group>"; };
 		C70D12A215AD1FE0008871FA /* SLViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SLViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
